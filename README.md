@@ -2,4 +2,4 @@
 Avocado Breakout game made with Unity
 play it here: 
 
-[MY VIDEOGAME](lelynn.github.io/MyAvocadoGame)
+[MY VIDEOGAME](www.lelynn.github.io/MyAvocadoGame)
